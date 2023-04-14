@@ -1,7 +1,7 @@
 :root{
     --primary-color: #322841;
     --secondary-color: #cfcbd5;
-    --tertiary-color: #93d9ff;
+    --tertiary-color: #7c8f97;
 
 }
 
@@ -57,13 +57,17 @@ header nav ul li{
 a {
     color: var(--tertiary-color);
     text-decoration: none;
+    font-size: 28px;
 }
 
 header nav ul li a:hover{
-    background: var(--primary-color);
+    background: var(--tertiary-color);
     color: var(--secondary-color);
     border-radius: 15px;
     text-shadow: none;
+    padding: 10px 16px;
+    transition-duration: 1s;
+    transition-delay: 0.2s;
 
 }
 
