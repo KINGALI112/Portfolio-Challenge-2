@@ -63,10 +63,20 @@
 
 
 .secondary-content li{
-    
+    color: var(--primary-color);
+    margin: 10px 0;
 }
 
 
+.secondary-content h5{
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.flex-row{
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
