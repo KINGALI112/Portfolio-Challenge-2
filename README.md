@@ -27,3 +27,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ![Main Screen](./assets/screens/Capture2.PNG)
 ![Resume](./assets/screens/Capture1.PNG)
+
+
+# Live Link:
+https://kingali112.github.io/Portfolio-Challenge-2/
+
+# Github Repository:
+https://github.com/KINGALI112/Portfolio-Challenge-2
